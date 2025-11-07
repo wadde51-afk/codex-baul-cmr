@@ -1,0 +1,275 @@
+INVENTARIO: /storage/emulated/0/Documents/CMR_MASTER_VAULT_2070
+
+CMR_MASTER_VAULT_2070/
+  validate_access_control.sh  |  2 KB  |  2025-10-29 07:49:00
+  check_access.py  |  0 KB  |  2025-10-29 07:16:57
+  README_SystemOverview.txt  |  0 KB  |  2025-10-29 00:24:37
+  access_control.yaml  |  3 KB  |  2025-10-29 07:13:23
+  autofill_readmes.sh  |  3 KB  |  2025-10-29 07:49:00
+  dataset_config.json  |  0 KB  |  2025-10-29 00:24:36
+  index.json  |  0 KB  |  2025-10-29 00:24:36
+  manifest.json  |  0 KB  |  2025-10-29 00:24:36
+  permissions.json  |  0 KB  |  2025-10-29 00:24:36
+  taxonomy.yaml  |  0 KB  |  2025-10-29 00:24:36
+  verify_vault_integrity.sh  |  4 KB  |  2025-10-29 07:49:00
+  verify_vault_full.sh  |  1 KB  |  2025-10-29 07:49:00
+  VAULT_OVERVIEW.txt  |  1 KB  |  2025-11-05 17:43:39
+  00_ADMIN_CORE/
+    README_SystemOverview.txt  |  0 KB  |  2025-10-29 00:24:36
+    METADATA_BACKUP/
+      README.txt  |  0 KB  |  2025-10-29 07:02:48
+    PERMISSIONS_LOGS/
+      README.txt  |  0 KB  |  2025-10-29 07:02:48
+    REPORTS/
+      validate_1142.log  |  0 KB  |  2025-11-06 11:42:25
+      integrity_1142.log  |  2 KB  |  2025-11-06 11:42:27
+      fullcheck_1142.log  |  0 KB  |  2025-11-06 11:42:33
+      integrity_1145.log  |  6 KB  |  2025-11-06 11:45:37
+      integrity_1149.log  |  2 KB  |  2025-11-06 11:49:20
+    BACKUPS/
+      CMR_SNAPSHOT_20251106_1142.tar.gz  |  13 KB  |  2025-11-06 11:42:11
+  01_WADE51_IDENTITY/
+    BODY_FULL/
+      Motion_Capture_Data/
+        README.txt  |  0 KB  |  2025-10-29 07:02:48
+      Muscular_Structure/
+        README.txt  |  0 KB  |  2025-10-29 07:02:48
+      Proportions_Ref/
+        README.txt  |  0 KB  |  2025-10-29 07:02:48
+    FACE_MAIN/
+      Expressions_Set/
+        README.txt  |  0 KB  |  2025-10-29 07:02:48
+      Face_3D_Scan_Data/
+        README.txt  |  0 KB  |  2025-10-29 07:02:48
+        .nomedia  |  0 KB  |  2025-11-06 08:45:29
+        README_Face3D.txt  |  1 KB  |  2025-11-05 18:52:46
+        F/
+          Neutral/
+            .gitkeep  |  0 KB  |  2025-11-06 11:48:59
+          Serious/
+            .gitkeep  |  0 KB  |  2025-11-06 11:48:59
+          Smile/
+            .gitkeep  |  0 KB  |  2025-11-06 11:48:59
+        FL/
+          Neutral/
+            .gitkeep  |  0 KB  |  2025-11-06 11:48:59
+          Serious/
+            .gitkeep  |  0 KB  |  2025-11-06 11:48:59
+          Smile/
+            .gitkeep  |  0 KB  |  2025-11-06 11:48:59
+        FR/
+          Neutral/
+            .gitkeep  |  0 KB  |  2025-11-06 11:48:59
+          Serious/
+            .gitkeep  |  0 KB  |  2025-11-06 11:48:59
+          Smile/
+            .gitkeep  |  0 KB  |  2025-11-06 11:48:59
+        L/
+          Neutral/
+            .gitkeep  |  0 KB  |  2025-11-06 11:48:59
+          Serious/
+            .gitkeep  |  0 KB  |  2025-11-06 11:48:59
+          Smile/
+            .gitkeep  |  0 KB  |  2025-11-06 11:48:59
+        R/
+          Neutral/
+            .gitkeep  |  0 KB  |  2025-11-06 11:48:59
+          Serious/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:00
+          Smile/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:00
+        B/
+          Neutral/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:00
+          Serious/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:00
+          Smile/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:00
+        U/
+          Neutral/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:00
+          Serious/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:00
+          Smile/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:00
+        D/
+          Neutral/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:00
+          Serious/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:00
+          Smile/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:00
+      Neutral_Portraits/
+        README.txt  |  0 KB  |  2025-10-29 07:02:48
+    TATTOOS/
+      Future_Tattoo_Designs/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+      Neck_Front/
+        README.txt  |  0 KB  |  2025-10-29 07:02:48
+      Sideburn_Area/
+        README.txt  |  0 KB  |  2025-10-29 07:02:48
+    VOICE_AND_SIGNATURE/
+      Autograph_Scans/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+      TTS_Profile/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+      Voice_Clips/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+    HAIR_STYLES/
+      STYLE_A_TIED_BACK/
+        Photos/
+          Front/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:00
+          Left/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:00
+          Right/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:00
+          Back/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:00
+          Top/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:00
+        Notes/
+          .gitkeep  |  0 KB  |  2025-11-06 11:49:01
+        References/
+          .gitkeep  |  0 KB  |  2025-11-06 11:49:01
+      STYLE_B_LOOSE_WET/
+        Photos/
+          Front/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:01
+          Left/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:01
+          Right/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:01
+          Back/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:01
+          Top/
+            .gitkeep  |  0 KB  |  2025-11-06 11:49:01
+        Notes/
+          .gitkeep  |  0 KB  |  2025-11-06 11:49:01
+        References/
+          .gitkeep  |  0 KB  |  2025-11-06 11:49:01
+  02_OUTFITS_AND_STYLE/
+    ACCESSORIES/
+      Cybernetic_Props/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+      Minimal_Jewelry/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+      Watches/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+    CMR_WARDROBE/
+      Futuristic_Leather/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+      Luxury_Suits/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+      Street_Mode/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+      Tactical_Armor/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+    FABRICS_AND_MATERIALS/
+      Carbon_Fiber/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+      Graphene_Fabric/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+      Neon_Textures/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+  03_ENVIRONMENTS_AND_LIGHTING/
+    3D_SCENE_PACKS/
+      HDRI_Maps/
+        README.txt  |  0 KB  |  2025-10-29 07:02:50
+      Lighting_Presets/
+        README.txt  |  0 KB  |  2025-10-29 07:02:50
+      Unreal_Environment_Files/
+        README.txt  |  0 KB  |  2025-10-29 07:02:50
+    CMR_DIMENSIONS/
+      Alien_Bridges/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+      Cosmic_Temples/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+      Interdimensional_Racing_Circuits/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+    LIGHTING_REFERENCES/
+      Cosmic_White_Balance/
+        README.txt  |  0 KB  |  2025-10-29 07:02:50
+      Neon_Green_Red/
+        README.txt  |  0 KB  |  2025-10-29 07:02:50
+      Shadow_Contrast/
+        README.txt  |  0 KB  |  2025-10-29 07:02:50
+    REAL_LOCATIONS/
+      City_Night/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+      Nature_Luxury_Scenes/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+      Studio_Setups/
+        README.txt  |  0 KB  |  2025-10-29 07:02:49
+  04_EXPRESSION_AND_MOVEMENT/
+    Action_Sequences/
+      README.txt  |  0 KB  |  2025-10-29 07:02:50
+    Cinematic_Angles/
+      README.txt  |  0 KB  |  2025-10-29 07:02:50
+    Emotions/
+      README.txt  |  0 KB  |  2025-10-29 07:02:50
+    Poses/
+      README.txt  |  0 KB  |  2025-10-29 07:02:50
+  05_TECH_ASSETS_AND_BRANDING/
+    BRANDING_DOCUMENTS/
+      CMR_BRAND_PROTOCOL_v1.docx  |  0 KB  |  2025-10-29 00:24:36
+      BRAND_README.txt  |  0 KB  |  2025-10-29 00:24:36
+      CMR_COLOR_THEORY_AND_COMPOSITION.pdf  |  0 KB  |  2025-10-29 00:24:36
+      CMR_LORE_AND_WORLD_ORIGIN_v1.docx  |  0 KB  |  2025-10-29 00:24:36
+      CMR_SYMBOLS_AND_GLYPHS.ai  |  0 KB  |  2025-10-29 00:24:36
+    CMR_LOGOS/
+      README.txt  |  0 KB  |  2025-10-29 07:02:50
+    COLOR_SCRIPTS/
+      README.txt  |  0 KB  |  2025-10-29 07:02:50
+    FONTS/
+      README.txt  |  0 KB  |  2025-10-29 07:02:50
+    UI_AND_GLYPHS/
+      README.txt  |  0 KB  |  2025-10-29 07:02:50
+  06_AUDIO_AND_MUSIC_REFERENCES/
+    Beats_and_Samples/
+      README.txt  |  0 KB  |  2025-10-29 07:02:50
+    Mixing_Templates/
+      README.txt  |  0 KB  |  2025-10-29 07:02:50
+    Sound_Design_Elements/
+      README.txt  |  0 KB  |  2025-10-29 07:02:50
+    Voice_Stems/
+      README.txt  |  0 KB  |  2025-10-29 07:02:50
+  07_AI_GENERATED_VISUALS/
+    DEPRECATED_OR_REJECTED/
+      README.txt  |  0 KB  |  2025-10-29 07:02:50
+    EXECUTOR_FINALS/
+      README.txt  |  0 KB  |  2025-10-29 07:02:50
+    INTERPRETER_OUTPUTS/
+      README.txt  |  0 KB  |  2025-10-29 07:02:50
+    VARIANTS_AND_EXPERIMENTS/
+      README.txt  |  0 KB  |  2025-10-29 07:02:50
+  08_ARMOR_DIVISION_FASHION/
+    3D_Cloth_Sim/
+      README.txt  |  0 KB  |  2025-10-29 07:02:50
+    Designs/
+      README.txt  |  0 KB  |  2025-10-29 07:02:50
+    Fabric_Science/
+      README.txt  |  0 KB  |  2025-10-29 07:02:51
+    Lookbook/
+      README.txt  |  0 KB  |  2025-10-29 07:02:51
+  09_VIDEO_REFERENCES_AND_VEO3/
+    Camera_Movements/
+      README.txt  |  0 KB  |  2025-10-29 07:02:51
+    Character_Behavior/
+      README.txt  |  0 KB  |  2025-10-29 07:02:51
+    Lighting_Samples/
+      README.txt  |  0 KB  |  2025-10-29 07:02:51
+    Scene_Templates/
+      README.txt  |  0 KB  |  2025-10-29 07:02:51
+    Soundtrack_and_Timing/
+      README.txt  |  0 KB  |  2025-10-29 07:02:51
+  10_APPROVED_REFS/
+    FINAL_REFERENCE_INDEX.txt  |  0 KB  |  2025-10-29 00:24:36
+    Hero_Body_Ref.png  |  0 KB  |  2025-10-29 00:24:36
+    LUT_CMR_Master.cube  |  0 KB  |  2025-10-29 00:24:36
+    Lighting_MasterRef.png  |  0 KB  |  2025-10-29 00:24:36
+    Selected_Face_Ref.png  |  0 KB  |  2025-10-29 00:24:36
+
+Total carpetas: 138
+Total archivos: 131
+Tamaño total: 0.09 MB
